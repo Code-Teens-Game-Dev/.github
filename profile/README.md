@@ -73,7 +73,5 @@ O GitHub Desktop é uma aplicação que permite gerir os vossos repositórios do
 
 ---
 
-Se tiverem dúvidas, falem comigo! Vamos aprender e divertir-nos a criar projetos incríveis!
-
 **Professora Joana Mesquita**
 
